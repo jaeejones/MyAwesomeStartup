@@ -1,0 +1,16 @@
+﻿.jumbotron { background-image:url(Images/lobster_muted.jpg);
+             background-size:cover;
+             background-position: center center;
+             
+}            
+.feature{
+    text-align: center;
+}
+.feature .glyphicon{
+    
+    font-size:400%;
+}
+.feature .glyphicon-apple
+{
+    color: #7ccc61
+}
